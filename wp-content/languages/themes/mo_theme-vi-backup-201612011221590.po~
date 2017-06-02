@@ -1,0 +1,4123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Agile\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-01 12:19+0000\n"
+"PO-Revision-Date: 2016-12-01 12:21+0000\n"
+"Last-Translator: toikhongphaiquantrivien <chanthientukk9@gmail.com>\n"
+"Language-Team: \n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: ../agile/404.php:29
+#, php-format
+msgid ""
+"The page you requested %1$s, does not exist. <p>You may try searching for "
+"what you're looking for below.</p>"
+msgstr ""
+
+#: ../agile/attachment.php:46 ../agile/page-content.php:37
+#: ../agile/single-page_section.php:32 ../agile/single-portfolio.php:42
+#: ../agile/single.php:62 ../agile/template-archives.php:84
+#: ../agile/template-bookmarks.php:48 ../agile/template-full-width.php:36
+#: ../agile/framework/functions/blog-content.php:213
+msgid "Pages:"
+msgstr ""
+
+#: ../agile/comments.php:14
+msgid "This page is not supposed to be loaded directly. Thanks!"
+msgstr ""
+
+#: ../agile/comments.php:30
+msgid "No&nbsp;Comments"
+msgstr ""
+
+#: ../agile/comments.php:30
+msgid "<span class=\"number\">1</span>&nbsp;Comment"
+msgstr ""
+
+#: ../agile/comments.php:50
+#, php-format
+msgid ""
+"Comments are closed, but <a href=\"%1$s\" title=\"Trackback URL for this "
+"post\">trackbacks</a> and pingbacks are open."
+msgstr ""
+
+#: ../agile/comments.php:56
+msgid "Comments are closed."
+msgstr ""
+
+#: ../agile/comments.php:63
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../agile/comments.php:63
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: ../agile/comments.php:63
+msgid "Cancel comment"
+msgstr ""
+
+#: ../agile/footer.php:65
+msgid "Back to top"
+msgstr ""
+
+#: ../agile/footer.php:65
+msgid "Go Top"
+msgstr ""
+
+#: ../agile/loop-error.php:15
+msgid "No posts were found with the criteria specified. Try searching again."
+msgstr ""
+
+#: ../agile/loop-meta.php:94
+#, php-format
+msgid "You are browsing the search results for &quot;%1$s&quot;"
+msgstr ""
+
+#: ../agile/loop-meta.php:107
+msgid "You are browsing the site archives by date."
+msgstr ""
+
+#. Name of the template
+#: ../agile/loop-meta.php:132
+msgid "Archives"
+msgstr ""
+
+#: ../agile/loop-meta.php:136
+msgid "You are browsing the site archives."
+msgstr ""
+
+#: ../agile/loop-meta.php:146
+msgid "Most Popular"
+msgstr ""
+
+#: ../agile/loop-meta.php:150
+msgid "You are browsing the site archives by popularity."
+msgstr ""
+
+#: ../agile/loop-nav.php:15
+msgid "Return to "
+msgstr ""
+
+#: ../agile/loop-nav.php:22
+msgid "Previous Project"
+msgstr ""
+
+#: ../agile/loop-nav.php:23
+msgid "Next Project"
+msgstr ""
+
+#: ../agile/loop-nav.php:30 ../agile/loop-nav.php:31
+msgid "%link"
+msgstr ""
+
+#: ../agile/loop-nav.php:43
+msgid "Previous Page"
+msgstr ""
+
+#: ../agile/loop-nav.php:43
+msgid "Next Page"
+msgstr ""
+
+#: ../agile/menu-mobile.php:14
+msgid "Menu"
+msgstr ""
+
+#: ../agile/searchform.php:14
+msgid "Search"
+msgstr ""
+
+#: ../agile/single-portfolio.php:53
+msgid "Project Details: "
+msgstr ""
+
+#: ../agile/single-portfolio.php:58
+msgid "Credit "
+msgstr ""
+
+#: ../agile/single-portfolio.php:64
+msgid "Client "
+msgstr ""
+
+#: ../agile/single-portfolio.php:70
+msgid "Date "
+msgstr ""
+
+#: ../agile/single-portfolio.php:74
+msgid "Category "
+msgstr ""
+
+#: ../agile/single-portfolio.php:81
+msgid "Description "
+msgstr ""
+
+#: ../agile/single-portfolio.php:87
+msgid "Visit Website"
+msgstr ""
+
+#. Name of the template
+msgid "One Column No Sidebars"
+msgstr ""
+
+#. Name of the template
+msgid "Two Column Left Navigation"
+msgstr ""
+
+#: ../agile/template-archives.php:34
+msgid "Recent 20 Posts"
+msgstr ""
+
+#: ../agile/template-archives.php:50
+msgid "Archives by category"
+msgstr ""
+
+#: ../agile/template-archives.php:63
+msgid "Archives by month"
+msgstr ""
+
+#: ../agile/template-archives.php:74
+msgid "Author Archives"
+msgstr ""
+
+#. Name of the template
+#: ../agile/framework/functions/header-title-area.php:95
+#: ../agile/framework/functions/header-title-area.php:103
+msgid "Blog"
+msgstr ""
+
+#. Name of the template
+msgid "Bookmarks"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width"
+msgstr ""
+
+#. Name of the template
+msgid "Filterable Gallery"
+msgstr ""
+
+#. Name of the template
+msgid "Gallery"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#. Name of the template
+msgid "Popular Posts"
+msgstr ""
+
+#. Name of the template
+msgid "Filterable Portfolio"
+msgstr ""
+
+#. Name of the template
+msgid "Portfolio Home"
+msgstr ""
+
+#. Name of the template
+#: ../agile/framework/framework.php:556
+msgid "Portfolio"
+msgstr ""
+
+#. Name of the template
+msgid "Single Page Site"
+msgstr ""
+
+#: ../agile/template-single-page-site.php:43
+#: ../agile/framework/admin/page-admin.php:234
+#: ../agile/framework/functions/commenting.php:142
+msgid "Edit"
+msgstr ""
+
+#. Name of the template
+msgid "Sitemap"
+msgstr ""
+
+#: ../agile/framework/framework.php:68
+msgid "Livemesh Theme Widgets"
+msgstr ""
+
+#: ../agile/framework/framework.php:91
+msgid "Row ID for styling"
+msgstr ""
+
+#: ../agile/framework/framework.php:94
+msgid "An ID for the row for styling purposes."
+msgstr ""
+
+#: ../agile/framework/framework.php:529
+msgid "Theme Options"
+msgstr ""
+
+#: ../agile/framework/framework.php:537
+#: ../agile/framework/admin/page-admin.php:80
+#: ../agile/framework/admin/page-admin.php:94
+msgid "Page Sections"
+msgstr ""
+
+#: ../agile/framework/framework.php:544
+#: ../agile/framework/partials/sitemap.php:56
+msgid "Pages"
+msgstr ""
+
+#: ../agile/framework/framework.php:550
+msgid "Posts"
+msgstr ""
+
+#: ../agile/framework/framework.php:562
+#: ../agile/framework/functions/header-title-area.php:98
+msgid "Media"
+msgstr ""
+
+#: ../agile/framework/framework.php:729
+msgid "Primary Menu"
+msgstr ""
+
+#: ../agile/framework/framework.php:730
+msgid "Footer Menu"
+msgstr ""
+
+#: ../agile/framework/framework.php:783
+msgid "Please provide your name"
+msgstr ""
+
+#: ../agile/framework/framework.php:784
+msgid "Your name must consist of at least 5 characters"
+msgstr ""
+
+#: ../agile/framework/framework.php:785
+msgid "Please provide a valid email address"
+msgstr ""
+
+#: ../agile/framework/framework.php:786
+msgid "Please provide a valid URL"
+msgstr ""
+
+#: ../agile/framework/framework.php:787
+msgid "Minimum 5 characters required"
+msgstr ""
+
+#: ../agile/framework/framework.php:788
+msgid "The input the correct value for the equation above"
+msgstr ""
+
+#: ../agile/framework/framework.php:789
+msgid "Please input the message"
+msgstr ""
+
+#: ../agile/framework/framework.php:790
+msgid "Your message must be at least 15 characters long"
+msgstr ""
+
+#: ../agile/framework/framework.php:791
+msgid "Your message has been sent. Thanks!"
+msgstr ""
+
+#: ../agile/framework/framework.php:796
+msgid "Loading the next set of posts..."
+msgstr ""
+
+#: ../agile/framework/framework.php:797
+msgid "No more items to load..."
+msgstr ""
+
+#: ../agile/woocommerce/woocommerce-integration.php:73
+msgid "View your shopping cart"
+msgstr ""
+
+#: ../agile/woocommerce/woocommerce-integration.php:75
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../agile/woocommerce/woocommerce-integration.php:158
+msgid "Primary WooCommerce Shop Sidebar"
+msgstr ""
+
+#: ../agile/woocommerce/woocommerce-integration.php:160
+msgid "Primary WooCommerce Product Sidebar"
+msgstr ""
+
+#: ../agile/woocommerce/woocommerce-integration.php:169
+msgid "Primary Sidebar displayed for WooCommerce templates"
+msgstr ""
+
+#: ../agile/woocommerce/woocommerce-integration.php:171
+msgid "Primary Sidebar displayed for WooCommerce Single Product"
+msgstr ""
+
+#: ../agile/framework/admin/page-admin.php:71
+msgid "Page Section Information"
+msgstr ""
+
+#: ../agile/framework/admin/page-admin.php:79
+#: ../agile/framework/admin/page-admin.php:93
+#: ../agile/framework/presentation/custom-post-types.php:434
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:25
+#: ../agile/framework/siteorigin/widgets/animate-numbers-widget/animate-numbers-widget.php:25
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:24
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:24
+#: ../agile/framework/siteorigin/widgets/custom-posts-widget/custom-posts-widget.php:24
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:24
+#: ../agile/framework/siteorigin/widgets/header-fancy-widget/header-fancy-widget.php:37
+#: ../agile/framework/siteorigin/widgets/heading-widget/heading-widget.php:37
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:24
+#: ../agile/framework/siteorigin/widgets/piechart-widget/piechart-widget.php:25
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:24
+#: ../agile/framework/siteorigin/widgets/pricing-plans-widget/pricing-plans-widget.php:24
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:24
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:24
+#: ../agile/framework/siteorigin/widgets/service-item-widget/service-item-widget.php:25
+#: ../agile/framework/siteorigin/widgets/show-gallery-widget/show-gallery-widget.php:24
+#: ../agile/framework/siteorigin/widgets/show-portfolio-widget/show-portfolio-widget.php:24
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:23
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:24
+#: ../agile/framework/siteorigin/widgets/stats-bars-widget/stats-bars-widget.php:25
+#: ../agile/framework/siteorigin/widgets/tabs-widget/tabs-widget.php:25
+#: ../agile/framework/siteorigin/widgets/team-widget/team-widget.php:24
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:24
+#: ../agile/framework/siteorigin/widgets/toggle-widget/toggle-widget.php:25
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:67
+msgid "Title"
+msgstr ""
+
+#: ../agile/framework/admin/page-admin.php:137
+msgid "Available Page Sections"
+msgstr ""
+
+#: ../agile/framework/admin/page-admin.php:150
+msgid "Chosen Page Sections"
+msgstr ""
+
+#: ../agile/framework/admin/page-admin.php:206
+msgid "No description provided yet in the page section edit window."
+msgstr ""
+
+#: ../agile/framework/admin/page-admin.php:219
+msgid "Edit Block"
+msgstr ""
+
+#: ../agile/framework/admin/page-admin.php:236
+msgid "View"
+msgstr ""
+
+#: ../agile/framework/admin/page-admin.php:237
+msgid "Remove"
+msgstr ""
+
+#: ../agile/framework/admin/page-admin.php:238
+msgid "Close"
+msgstr ""
+
+#: ../agile/framework/admin/portfolio-admin.php:71
+msgid "Portfolio Information"
+msgstr ""
+
+#: ../agile/framework/admin/portfolio-admin.php:79
+#: ../agile/framework/admin/portfolio-admin.php:96
+msgid "Portfolio Name"
+msgstr ""
+
+#: ../agile/framework/admin/portfolio-admin.php:80
+#: ../agile/framework/admin/portfolio-admin.php:97
+msgid "Portfolio Image"
+msgstr ""
+
+#: ../agile/framework/admin/portfolio-admin.php:81
+#: ../agile/framework/admin/portfolio-admin.php:98
+msgid "Portfolio Link"
+msgstr ""
+
+#: ../agile/framework/admin/portfolio-admin.php:82
+#: ../agile/framework/admin/portfolio-admin.php:99
+msgid "Portfolio Client"
+msgstr ""
+
+#: ../agile/framework/admin/portfolio-admin.php:83
+#: ../agile/framework/admin/portfolio-admin.php:100
+msgid "Portfolio Author"
+msgstr ""
+
+#: ../agile/framework/admin/portfolio-admin.php:145
+msgid "Project URL:"
+msgstr ""
+
+#: ../agile/framework/admin/portfolio-admin.php:149
+msgid "Author:"
+msgstr ""
+
+#: ../agile/framework/admin/portfolio-admin.php:153
+msgid "Client:"
+msgstr ""
+
+#: ../agile/framework/admin/portfolio-admin.php:157
+msgid "Project Date:"
+msgstr ""
+
+#: ../agile/framework/admin/portfolio-admin.php:162
+msgid "Additional Project Notes (HTML accepted):"
+msgstr ""
+
+#: ../agile/framework/admin/slider-admin.php:79
+msgid "Showcase Slide Information"
+msgstr ""
+
+#: ../agile/framework/admin/slider-admin.php:88
+#: ../agile/framework/admin/slider-admin.php:103
+msgid "Showcase Slide Name"
+msgstr ""
+
+#: ../agile/framework/admin/slider-admin.php:89
+#: ../agile/framework/admin/slider-admin.php:104
+msgid "Showcase Slide Link"
+msgstr ""
+
+#: ../agile/framework/admin/slider-admin.php:132
+msgid "Showcase Slider Item Link:"
+msgstr ""
+
+#: ../agile/framework/admin/slider-admin.php:137
+msgid "Showcase Slide Information (HTML accepted):"
+msgstr ""
+
+#: ../agile/framework/extensions/framework-extender.php:202
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../agile/framework/extensions/framework-extender.php:203
+msgid "Install Plugins"
+msgstr ""
+
+#: ../agile/framework/extensions/framework-extender.php:204
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../agile/framework/extensions/framework-extender.php:205
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../agile/framework/extensions/framework-extender.php:216
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../agile/framework/extensions/framework-extender.php:217
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../agile/framework/extensions/framework-extender.php:218
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../agile/framework/extensions/framework-extender.php:233
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:79
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:49
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:57
+msgid "Name"
+msgstr ""
+
+#: ../agile/framework/extensions/framework-extender.php:234
+msgid "Your name"
+msgstr ""
+
+#: ../agile/framework/extensions/framework-extender.php:235
+#: ../agile/framework/presentation/metabox-manager.php:562
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:29
+msgid "Email"
+msgstr ""
+
+#: ../agile/framework/extensions/framework-extender.php:236
+msgid "Your email"
+msgstr ""
+
+#: ../agile/framework/extensions/framework-extender.php:245
+msgctxt "comment field"
+msgid "Comment"
+msgstr ""
+
+#: ../agile/framework/extensions/framework-extender.php:245
+msgid "Your comment"
+msgstr ""
+
+#: ../agile/framework/extensions/framework-extender.php:396
+msgid "Post Comment"
+msgstr ""
+
+#: ../agile/framework/functions/blog-content.php:152
+msgid "Read More"
+msgstr ""
+
+#: ../agile/framework/functions/blog-content.php:207
+#: ../agile/framework/functions/portfolio-functions.php:216
+#: ../agile/framework/functions/post-functions.php:314
+#: ../agile/framework/functions/post-functions.php:658
+msgid "Read More <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../agile/framework/functions/breadcrumbs.php:26
+msgid "Home"
+msgstr ""
+
+#: ../agile/framework/functions/breadcrumbs.php:73
+msgid "Search Results for: "
+msgstr ""
+
+#: ../agile/framework/functions/breadcrumbs.php:96
+msgid "Posts by "
+msgstr ""
+
+#: ../agile/framework/functions/breadcrumbs.php:99
+msgid "Error 404 - Not Found."
+msgstr ""
+
+#: ../agile/framework/functions/commenting.php:15
+#: ../agile/framework/functions/commenting.php:46
+msgid "No Comments"
+msgstr ""
+
+#: ../agile/framework/functions/commenting.php:15
+#: ../agile/framework/functions/commenting.php:46
+#, php-format
+msgid "%1$s Comment"
+msgstr ""
+
+#: ../agile/framework/functions/commenting.php:15
+#: ../agile/framework/functions/commenting.php:46
+#, php-format
+msgid "%1$s Comments"
+msgstr ""
+
+#: ../agile/framework/functions/commenting.php:27
+#: ../agile/framework/functions/commenting.php:29
+#: ../agile/framework/functions/commenting.php:31
+#, php-format
+msgid "Comment on %1$s"
+msgstr ""
+
+#: ../agile/framework/functions/commenting.php:99
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../agile/framework/functions/commenting.php:99
+#: ../agile/framework/functions/commenting.php:99
+msgid "l, F jS, Y, g:i a"
+msgstr ""
+
+#: ../agile/framework/functions/commenting.php:115
+msgid "Reply"
+msgstr ""
+
+#: ../agile/framework/functions/commenting.php:116
+msgid "Log in to reply."
+msgstr ""
+
+#: ../agile/framework/functions/commenting.php:142
+#, php-format
+msgid "Edit %1$s"
+msgstr ""
+
+#: ../agile/framework/functions/commenting.php:202
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../agile/framework/functions/gallery-functions.php:236
+#: ../agile/framework/functions/portfolio-functions.php:243
+#: ../agile/framework/functions/portfolio-functions.php:277
+msgid "All"
+msgstr ""
+
+#: ../agile/framework/functions/header-title-area.php:118
+msgid "404 Not Found"
+msgstr ""
+
+#: ../agile/framework/functions/post-functions.php:27
+#: ../agile/framework/functions/post-functions.php:31
+msgid "(Untitled)"
+msgstr ""
+
+#: ../agile/framework/functions/post-functions.php:42
+msgid "Author: "
+msgstr ""
+
+#: ../agile/framework/functions/post-functions.php:56
+msgid "On: "
+msgstr ""
+
+#: ../agile/framework/functions/post-functions.php:58
+#: ../agile/framework/functions/utility-functions.php:96
+msgid "Y"
+msgstr ""
+
+#: ../agile/framework/functions/post-functions.php:58
+msgid "m"
+msgstr ""
+
+#: ../agile/framework/functions/post-functions.php:58
+msgid "d"
+msgstr ""
+
+#: ../agile/framework/functions/post-functions.php:58
+#: ../agile/framework/functions/post-functions.php:62
+#: ../agile/framework/functions/post-functions.php:72
+msgid "l, F, Y, g:i a"
+msgstr ""
+
+#: ../agile/framework/functions/post-functions.php:86
+msgid "Categories: "
+msgstr ""
+
+#: ../agile/framework/functions/utility-functions.php:86
+msgid "Powered by WordPress"
+msgstr ""
+
+#: ../agile/framework/functions/utility-functions.php:86
+msgid "WordPress"
+msgstr ""
+
+#: ../agile/framework/functions/utility-functions.php:96
+msgid "Copyright &#169; "
+msgstr ""
+
+#: ../agile/framework/functions/utility-functions.php:96
+msgid ". Powered by "
+msgstr ""
+
+#: ../agile/framework/functions/utility-functions.php:96
+msgid " and "
+msgstr ""
+
+#: ../agile/framework/partials/sitemap.php:16
+msgid "Posts by Category"
+msgstr ""
+
+#: ../agile/framework/partials/sitemap.php:69
+msgid "Authors"
+msgstr ""
+
+#: ../agile/framework/partials/sitemap.php:76
+msgid "Our Portfolio"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:44
+msgctxt "post type general name"
+msgid "Testimonials"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:45
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:46
+msgctxt "post type menu name"
+msgid "Testimonials"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:47
+msgctxt "testimonial item"
+msgid "Add New"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:48
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:49
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:50
+msgid "New Testimonial"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:51
+msgid "View Testimonial"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:52
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:53
+msgid "No Testimonials found"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:54
+msgid "No Testimonials in the trash"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:79
+msgctxt "post type general name"
+msgid "Pricing Plans"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:80
+msgctxt "post type singular name"
+msgid "Pricing Plan"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:81
+msgctxt "post type menu name"
+msgid "Pricing Plan"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:82
+msgctxt "pricing plan item"
+msgid "Add New"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:83
+msgid "Add New Pricing Plan"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:84
+msgid "Edit Pricing Plan"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:85
+msgid "New Pricing Plan"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:86
+msgid "View Pricing Plan"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:87
+msgid "Search Pricing Plans"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:88
+msgid "No Pricing Plans found"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:89
+msgid "No Pricing Plans in the trash"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:115
+msgctxt "post type general name"
+msgid "Team"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:116
+msgctxt "post type singular name"
+msgid "Team"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:117
+msgctxt "post type menu name"
+msgid "Team Profiles"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:118
+msgctxt "team item"
+msgid "Add New"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:119
+msgid "Add New Profile"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:120
+msgid "Edit Profile"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:121
+msgid "New Profile"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:122
+msgid "View Profile"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:123
+msgid "Search Profiles"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:124
+msgid "No Profiles Found"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:125
+msgid "No Profiles Found in Trash"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:148
+msgctxt "taxonomy general name"
+msgid "Departments"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:149
+msgctxt "taxonomy singular name"
+msgid "Department"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:150
+msgid "Search Department"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:151
+msgid "All Departments"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:152
+msgid "Parent Department"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:153
+msgid "Parent Department:"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:154
+msgid "Edit Department"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:155
+msgid "Update Department"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:156
+msgid "Add New Department"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:157
+msgid "New Department Name"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:178
+msgctxt "portfolio name"
+msgid "Portfolio"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:179
+msgctxt "portfolio type singular name"
+msgid "Portfolio Entry"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:180
+msgctxt "portfolio type menu name"
+msgid "Portfolio"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:181
+msgctxt "portfolio item"
+msgid "Add New"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:182
+msgid "Add New Portfolio Entry"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:183
+msgid "Edit Portfolio Entry"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:184
+msgid "New Portfolio Entry"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:185
+msgid "View Portfolio Entry"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:186
+msgid "Search Portfolio Entries"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:187
+msgid "No Portfolio Entries Found"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:188
+msgid "No Portfolio Entries Found in Trash"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:213
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:214
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:225
+msgctxt "gallery name"
+msgid "Gallery"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:226
+msgctxt "gallery type singular name"
+msgid "Gallery Entry"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:227
+msgctxt "gallery type menu name"
+msgid "Gallery"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:228
+msgctxt "gallery"
+msgid "Add New"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:229
+msgid "Add New Gallery Entry"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:230
+msgid "Edit Gallery Entry"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:231
+msgid "New Gallery Entry"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:232
+msgid "View Gallery Entry"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:233
+msgid "Search Gallery Entries"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:234
+msgid "No Gallery Entries Found"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:235
+msgid "No Gallery Entries Found in Trash"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:260
+msgid "Gallery Categories"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:261
+msgid "Gallery Category"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:273
+msgctxt "page section general name"
+msgid "Page Section"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:274
+msgctxt "page section singular name"
+msgid "Page Section"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:275
+msgctxt "post type menu name"
+msgid "Page Sections"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:276
+msgctxt "page "
+msgid "Add New"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:277
+msgid "Add New Page Section"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:278
+msgid "Edit Page Section"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:279
+msgid "New Page Section"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:280
+msgid "View Page Section"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:281
+msgid "Search Page Sections"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:282
+msgid "No Page Sections Found"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:283
+msgid "No Page Sections Found in Trash"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:288
+msgid ""
+"A custom post type which represents a section like about, work, services, "
+"team etc. part of a typical single page site. Can be made up of one or more "
+"segments."
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:312
+msgid "Showcase Slides"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:314
+msgctxt "post type menu name"
+msgid "Showcase Slides"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:315
+msgctxt "showcase slide item"
+msgid "Add New"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:316
+msgid "Add New Slide"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:317
+msgid "Edit Slide"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:318
+msgid "New Slide"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:319
+msgid "View Slide"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:320
+msgid "Search Slides"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:321
+msgid "No Slides Found"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:322
+msgid "No Slides Found in Trash"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:325
+msgid ""
+"A custom post type which has the required information to display showcase "
+"slides in a slider"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:344
+msgid "Order"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:369
+msgid "Gallery Title"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:370
+#: ../agile/framework/presentation/custom-post-types.php:399
+#: ../agile/framework/siteorigin/widgets/custom-posts-widget/custom-posts-widget.php:53
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:45
+#: ../agile/framework/siteorigin/widgets/show-gallery-widget/show-gallery-widget.php:46
+#: ../agile/framework/siteorigin/widgets/show-portfolio-widget/show-portfolio-widget.php:46
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:34
+msgid "Thumbnail"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:371
+msgid "Category"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:398
+msgid "Team Member Name"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:400
+#: ../agile/framework/presentation/metabox-manager.php:554
+msgid "Position"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:401
+#: ../agile/framework/siteorigin/widgets/team-widget/team-widget.php:38
+msgid "Department"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:402
+msgid "Team Order"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:435
+msgid "Testimonial"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:436
+msgid "Client's Image"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:437
+msgid "Client's Name"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:438
+#: ../agile/framework/presentation/metabox-manager.php:436
+msgid "Client Details"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:439
+msgid "Testimonial Order"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:478
+msgid "Pricing Plan Name"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:479
+#: ../agile/framework/presentation/metabox-manager.php:461
+msgid "Price Tag"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:480
+msgid "Tagline"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:481
+#: ../agile/framework/presentation/metabox-manager.php:294
+msgid "Image"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:482
+msgid "Pricing Plan URL"
+msgstr ""
+
+#: ../agile/framework/presentation/custom-post-types.php:483
+msgid "Pricing Plan Order"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:78
+msgid "Current Post Layout"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:105
+msgid "Custom Sidebar Choice"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:127
+#: ../agile/framework/presentation/metabox-manager.php:627
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:45
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:48
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:61
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:121
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:127
+msgid "Default"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:200
+msgid "Remove Title Header"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:209
+#: ../agile/framework/presentation/metabox-manager.php:250
+#: ../agile/framework/presentation/metabox-manager.php:276
+#: ../agile/framework/presentation/metabox-manager.php:359
+#: ../agile/framework/presentation/metabox-manager.php:404
+#: ../agile/framework/presentation/metabox-manager.php:505
+msgid "Yes"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:216
+msgid "Choose Custom Primary Navigation Menu"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:244
+msgid "Use Video as Thumbnail"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:260
+msgid "Video URL"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:270
+msgid "Use Slider as Thumbnail"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:286
+msgid "Images for thumbnail slider"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:325
+#: ../agile/framework/siteorigin/widgets/service-item-widget/service-item-widget.php:31
+msgid "Description"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:334
+msgid "Entry Title Background"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:342
+msgid "Page/Post Title Height"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:351
+msgid "Disable Breadcrumbs on this Post/Page"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:379
+msgid "Custom Heading Background"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:387
+msgid "Custom Heading Content"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:396
+msgid "Custom Heading Content spans entire screen width"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:428
+msgid "Client"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:468
+msgid "Tagline Text"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:476
+msgid "Pricing Image"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:483
+msgid "URL for the Pricing link/button"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:490
+msgid "Text for the Pricing link/button"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:497
+msgid "Highlight Pricing Plan"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:529
+msgid "Page Section Description"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:570
+msgid "Twitter"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:578
+msgid "LinkedIn"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:586
+msgid "Facebook"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:594
+msgid "Dribbble"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:602
+msgid "Google Plus"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:610
+msgid "Instagram"
+msgstr ""
+
+#: ../agile/framework/presentation/metabox-manager.php:649
+#: ../agile/framework/presentation/metabox-manager.php:650
+msgid "Appearances Menu Screen"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:73
+msgid "Post Sidebar"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:74
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:75
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:76
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:77
+msgid "Gallery Sidebar"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:78
+msgid "After Singular Post"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:79
+msgid "After Singular Page"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:80
+msgid "Home Page Slider Area (Deprecated)"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:81
+msgid "Header Area"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:88
+msgid "Footer Widget Area One"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:89
+msgid "Footer Widget Area Two"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:90
+msgid "Footer Widget Area Three"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:91
+msgid "Footer Widget Area Four"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:92
+msgid "Footer Widget Area Five"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:93
+msgid "Footer Widget Area Six"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:97
+msgid "Sidebar displayed in single post"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:98
+msgid "Sidebar displayed in post archive pages"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:99
+msgid "Sidebar displayed in pages"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:100
+msgid "Sidebar displayed in the Portfolio archive pages"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:101
+msgid "Sidebar displayed in the Gallery pages"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:102
+msgid "Widgets placed after the single post content"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:103
+msgid "Widgets placed after the single page content"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:104
+msgid ""
+"(Deprecated - no longer used) - Widgets to be placed in top area of Custom "
+"Home Page to help create static content when sliders are disabled"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:105
+msgid ""
+"Widget content in the Header area. Typically custom HTML, buttons, social "
+"icons etc."
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:111
+msgid "Column 1 of Footer Widget Area"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:112
+msgid "Column 2 of Footer Widget Area"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:113
+msgid "Column 3 of Footer Widget Area"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:114
+msgid "Column 4 of Footer Widget Area"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:115
+msgid "Column 5 of Footer Widget Area"
+msgstr ""
+
+#: ../agile/framework/presentation/sidebar-manager.php:116
+msgid "Column 6 of Footer Widget Area"
+msgstr ""
+
+#: ../agile/framework/presentation/slider-manager.php:100
+msgid ""
+"Revolution Slider Plugin Not Installed/Deactivated or No Revolution Slider "
+"entries created. Prepare the Revolution Slider or choose a different slider "
+"type in page edit window."
+msgstr ""
+
+#: ../agile/framework/presentation/slider-manager.php:287
+msgid "Plugin Not Activated or No Sliders Created"
+msgstr ""
+
+#: ../agile/framework/scripts/sendmail.php:50
+msgid "It appears you are a bot and hence exiting!"
+msgstr ""
+
+#: ../agile/framework/scripts/sendmail.php:59
+msgid " tried to reach you"
+msgstr ""
+
+#: ../agile/framework/scripts/sendmail.php:61
+msgid " tried to reach you from "
+msgstr ""
+
+#: ../agile/framework/scripts/sendmail.php:70
+msgid "Name: "
+msgstr ""
+
+#: ../agile/framework/scripts/sendmail.php:73
+msgid "Contact Number: "
+msgstr ""
+
+#: ../agile/framework/scripts/sendmail.php:75
+msgid "Contact Email: "
+msgstr ""
+
+#: ../agile/framework/scripts/sendmail.php:77
+msgid "URL: "
+msgstr ""
+
+#: ../agile/framework/scripts/sendmail.php:80
+msgid "Subject: "
+msgstr ""
+
+#: ../agile/framework/scripts/sendmail.php:82
+msgid "Contact Message: "
+msgstr ""
+
+#: ../agile/framework/scripts/sendmail.php:89
+msgid "Please enter your name."
+msgstr ""
+
+#: ../agile/framework/scripts/sendmail.php:95
+msgid "Please enter an e-mail address."
+msgstr ""
+
+#: ../agile/framework/scripts/sendmail.php:99
+msgid "Please enter a valid e-mail address."
+msgstr ""
+
+#: ../agile/framework/scripts/sendmail.php:105
+msgid "Please enter your message. It should have at least 15 characters.<br />"
+msgstr ""
+
+#: ../agile/framework/shortcodes/contact-shortcodes.php:42
+msgid "Name *"
+msgstr ""
+
+#: ../agile/framework/shortcodes/contact-shortcodes.php:42
+msgid "Name:"
+msgstr ""
+
+#: ../agile/framework/shortcodes/contact-shortcodes.php:44
+msgid "Email *"
+msgstr ""
+
+#: ../agile/framework/shortcodes/contact-shortcodes.php:44
+#: ../agile/framework/widgets/mo-contact-info-widget.php:165
+msgid "Email:"
+msgstr ""
+
+#: ../agile/framework/shortcodes/contact-shortcodes.php:47
+msgid "Phone Number"
+msgstr ""
+
+#: ../agile/framework/shortcodes/contact-shortcodes.php:47
+#: ../agile/framework/widgets/mo-contact-info-widget.php:159
+msgid "Phone:"
+msgstr ""
+
+#: ../agile/framework/shortcodes/contact-shortcodes.php:50
+msgid "Web URL"
+msgstr ""
+
+#: ../agile/framework/shortcodes/contact-shortcodes.php:50
+msgid "URL:"
+msgstr ""
+
+#: ../agile/framework/shortcodes/contact-shortcodes.php:53
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:53
+msgid "Subject"
+msgstr ""
+
+#: ../agile/framework/shortcodes/contact-shortcodes.php:53
+msgid "Subject:"
+msgstr ""
+
+#: ../agile/framework/shortcodes/contact-shortcodes.php:55
+msgid "Message *"
+msgstr ""
+
+#: ../agile/framework/shortcodes/contact-shortcodes.php:55
+msgid "Message:"
+msgstr ""
+
+#: ../agile/framework/shortcodes/contact-shortcodes.php:57
+msgid "Leave Empty"
+msgstr ""
+
+#: ../agile/framework/shortcodes/contact-shortcodes.php:57
+msgid "Leave Blank:"
+msgstr ""
+
+#: ../agile/framework/shortcodes/contact-shortcodes.php:59
+msgid "Send the message"
+msgstr ""
+
+#: ../agile/framework/shortcodes/divider-shortcodes.php:57
+msgid "Top of the Page"
+msgstr ""
+
+#: ../agile/framework/shortcodes/divider-shortcodes.php:57
+msgid "Back to Top"
+msgstr ""
+
+#: ../agile/framework/shortcodes/social-shortcodes.php:79
+msgid "Contact Us"
+msgstr ""
+
+#: ../agile/framework/shortcodes/social-shortcodes.php:81
+msgid "Follow on Facebook"
+msgstr ""
+
+#: ../agile/framework/shortcodes/social-shortcodes.php:83
+msgid "Subscribe to Twitter Feed"
+msgstr ""
+
+#: ../agile/framework/shortcodes/social-shortcodes.php:85
+msgid "View Flickr Portfolio"
+msgstr ""
+
+#: ../agile/framework/shortcodes/social-shortcodes.php:87
+msgid "Subscribe to the YouTube channel"
+msgstr ""
+
+#: ../agile/framework/shortcodes/social-shortcodes.php:89
+msgid "View LinkedIn Profile"
+msgstr ""
+
+#: ../agile/framework/shortcodes/social-shortcodes.php:91
+msgid "Follow on Google Plus"
+msgstr ""
+
+#: ../agile/framework/shortcodes/social-shortcodes.php:93
+msgid "Subscribe to the Vimeo Channel"
+msgstr ""
+
+#: ../agile/framework/shortcodes/social-shortcodes.php:95
+msgid "View Instagram Feed"
+msgstr ""
+
+#: ../agile/framework/shortcodes/social-shortcodes.php:97
+msgid "View Behance Portfolio"
+msgstr ""
+
+#: ../agile/framework/shortcodes/social-shortcodes.php:99
+msgid "Subscribe to Pinterest Feed"
+msgstr ""
+
+#: ../agile/framework/shortcodes/social-shortcodes.php:101
+msgid "Connect to us on Skype"
+msgstr ""
+
+#: ../agile/framework/shortcodes/social-shortcodes.php:103
+msgid "View Dribbble Portfolio"
+msgstr ""
+
+#: ../agile/framework/shortcodes/social-shortcodes.php:107
+msgid "Subscribe to our RSS Feed"
+msgstr ""
+
+#: ../agile/framework/shortcodes/team-shortcodes.php:282
+msgid "About "
+msgstr ""
+
+#: ../agile/framework/shortcodes/team-shortcodes.php:290
+msgid "Connect Now: "
+msgstr ""
+
+#: ../agile/framework/widgets/mo-advertisement-125-widget.php:22
+#: ../agile/framework/widgets/mo-contact-info-widget.php:23
+msgid "A widget that displays the contact information."
+msgstr ""
+
+#: ../agile/framework/widgets/mo-advertisement-125-widget.php:28
+msgid "Advertisement 125 Widget"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-advertisement-125-widget.php:107
+msgid "Advertisement"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-advertisement-125-widget.php:114
+#: ../agile/framework/widgets/mo-contact-info-widget.php:123
+#: ../agile/framework/widgets/mo-social-networks-widget.php:127
+msgid "Title:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-advertisement-125-widget.php:119
+msgid "Number of Advertisements:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-advertisement-125-widget.php:145
+msgid "Advertisement Link "
+msgstr ""
+
+#: ../agile/framework/widgets/mo-advertisement-125-widget.php:150
+msgid "Image Link "
+msgstr ""
+
+#: ../agile/framework/widgets/mo-author-widget.php:23
+msgid "A widget that displays the post author information."
+msgstr ""
+
+#: ../agile/framework/widgets/mo-author-widget.php:29
+msgid "Author Widget"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-author-widget.php:159
+msgid "Widget Title:(optional)"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-author-widget.php:166
+msgid "Avatar Size:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-contact-info-widget.php:29
+msgid "Contact Info Widget"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-contact-info-widget.php:118
+msgid "Contact Info"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-contact-info-widget.php:129
+msgid "Street 1:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-contact-info-widget.php:135
+msgid "Street 2:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-contact-info-widget.php:141
+msgid "City:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-contact-info-widget.php:147
+msgid "State:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-contact-info-widget.php:153
+msgid "Zip Code:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-featured-posts-widget.php:22
+msgid "A widget that displays the featured posts."
+msgstr ""
+
+#: ../agile/framework/widgets/mo-featured-posts-widget.php:28
+msgid "Featured Posts Widget"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-featured-posts-widget.php:98
+msgid "Featured Posts"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-featured-posts-widget.php:107
+#: ../agile/framework/widgets/mo-flickr-widget.php:101
+#: ../agile/framework/widgets/mo-popular-posts-widget.php:104
+#: ../agile/framework/widgets/mo-recent-posts-widget.php:104
+#: ../agile/framework/widgets/mo-related-posts-widget.php:149
+msgid "Widget Title:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-featured-posts-widget.php:112
+#: ../agile/framework/widgets/mo-popular-posts-widget.php:109
+#: ../agile/framework/widgets/mo-recent-posts-widget.php:109
+#: ../agile/framework/widgets/mo-related-posts-widget.php:154
+msgid "Post Count:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-featured-posts-widget.php:118
+#: ../agile/framework/widgets/mo-popular-posts-widget.php:115
+#: ../agile/framework/widgets/mo-recent-posts-widget.php:115
+#: ../agile/framework/widgets/mo-related-posts-widget.php:160
+msgid "Hide Thumbnail?"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-featured-posts-widget.php:122
+#: ../agile/framework/widgets/mo-popular-posts-widget.php:119
+#: ../agile/framework/widgets/mo-recent-posts-widget.php:119
+#: ../agile/framework/widgets/mo-related-posts-widget.php:164
+msgid "Length of Summary:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-featured-posts-widget.php:128
+msgid "Featured Category"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-featured-posts-widget.php:141
+#: ../agile/framework/widgets/mo-popular-posts-widget.php:126
+#: ../agile/framework/widgets/mo-recent-posts-widget.php:126
+#: ../agile/framework/widgets/mo-related-posts-widget.php:171
+msgid "Show Post Meta?"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-flickr-widget.php:23
+msgid "A widget that displays the flickr stream."
+msgstr ""
+
+#: ../agile/framework/widgets/mo-flickr-widget.php:29
+msgid "Flickr Widget"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-flickr-widget.php:93
+msgid "My Photos"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-flickr-widget.php:107
+msgid "Flickr ID:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-flickr-widget.php:114
+msgid "Number of Photos:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-flickr-widget.php:121
+msgid "Source Type:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-flickr-widget.php:131
+msgid "Display Mode:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-popular-posts-widget.php:23
+msgid "A widget that displays the most popular posts."
+msgstr ""
+
+#: ../agile/framework/widgets/mo-popular-posts-widget.php:29
+msgid "Popular Posts Widget"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-popular-posts-widget.php:95
+msgid "Most Popular Posts"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-recent-posts-widget.php:23
+msgid "A widget that displays the recent posts with thumbnails."
+msgstr ""
+
+#: ../agile/framework/widgets/mo-recent-posts-widget.php:29
+msgid "Recent Posts Widget"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-recent-posts-widget.php:95
+msgid "Recent Posts"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-related-posts-widget.php:22
+msgid "A widget that displays the related posts with thumbnails."
+msgstr ""
+
+#: ../agile/framework/widgets/mo-related-posts-widget.php:28
+msgid "Related Posts Widget"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-related-posts-widget.php:140
+msgid "Related Posts"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-related-posts-widget.php:175
+msgid "Match:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-social-networks-widget.php:22
+msgid "A widget that displays the social network information for the website."
+msgstr ""
+
+#: ../agile/framework/widgets/mo-social-networks-widget.php:28
+msgid "Social Networks Widget"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-social-networks-widget.php:122
+msgid "Find us online"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-social-networks-widget.php:133
+msgid "Facebook URL:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-social-networks-widget.php:138
+msgid "Twitter URL:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-social-networks-widget.php:143
+msgid "LinkedIn URL:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-social-networks-widget.php:148
+msgid "YouTube URL:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-social-networks-widget.php:153
+msgid "Flickr URL:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-social-networks-widget.php:158
+msgid "Google+ URL:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-social-networks-widget.php:163
+msgid "Instagram URL:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-social-networks-widget.php:168
+msgid "Pinterest URL:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-social-networks-widget.php:173
+msgid "Dribbble URL:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-social-networks-widget.php:178
+msgid "Vimeo URL:"
+msgstr ""
+
+#: ../agile/framework/widgets/mo-social-networks-widget.php:183
+msgid "RSS Feed URL <small>(leave blank to use default RSS feed URL)</small>:"
+msgstr ""
+
+#: ../agile/framework/admin/tinymce/window_page.php:6
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:15
+msgid "Action Call"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:17
+msgid ""
+"Create action call sections that display text with button urging the user to "
+"take action."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:30
+msgid "The text shown as part of action call. "
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:31
+msgid "Action Text"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:32
+msgid "Ready to get started <strong>on your project</strong>?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:36
+msgid ""
+"The URL to which the button links to. The user navigates to this URL when "
+"the button is clicked."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:37
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:80
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:85
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:58
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:64
+msgid "Button url"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:38
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:81
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:86
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:59
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:65
+msgid "http://example.com"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:42
+msgid "Color of the button. "
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:43
+msgid "Button Color"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:46
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:49
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:62
+msgid "Theme"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:47
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:50
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:63
+msgid "Black"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:48
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:51
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:64
+msgid "Blue"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:49
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:52
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:65
+msgid "Cyan"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:50
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:53
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:66
+msgid "Green"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:51
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:54
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:67
+msgid "Orange"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:52
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:55
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:68
+msgid "Pink"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:53
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:56
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:69
+msgid "Red"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:54
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:57
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:70
+msgid "Teal"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:55
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:58
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:71
+msgid "Trans"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:61
+msgid "The title for the button shown as part of call for action. "
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:62
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:74
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:79
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:52
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:58
+msgid "Button text"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/action-call-widget/action-call-widget.php:63
+msgid "Purchase Now"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/animate-numbers-widget/animate-numbers-widget.php:15
+msgid "Animate Numbers"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/animate-numbers-widget/animate-numbers-widget.php:17
+msgid ""
+"Animate from a starting value to a end number when the user scrolls to this "
+"section."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/animate-numbers-widget/animate-numbers-widget.php:30
+msgid "Animating Numbers"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/animate-numbers-widget/animate-numbers-widget.php:31
+msgid "Animating Number"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/animate-numbers-widget/animate-numbers-widget.php:40
+msgid "Stats Title"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/animate-numbers-widget/animate-numbers-widget.php:41
+msgid "The title for the stats"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/animate-numbers-widget/animate-numbers-widget.php:42
+msgid "Hours Worked"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/animate-numbers-widget/animate-numbers-widget.php:47
+msgid "Start Value"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/animate-numbers-widget/animate-numbers-widget.php:48
+msgid "The start value for the stats."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/animate-numbers-widget/animate-numbers-widget.php:54
+msgid "Stop Value"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/animate-numbers-widget/animate-numbers-widget.php:55
+msgid "The stop value for the stats."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/animate-numbers-widget/animate-numbers-widget.php:61
+msgid "Stats Icon"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/animate-numbers-widget/animate-numbers-widget.php:62
+msgid ""
+"The font icon to be displayed for the statistic being displayed, chosen from "
+"the list of icons listed at <a href=\"http://portfoliotheme.org/wp-"
+"content/uploads/icomoon/demo.html\" target=\"_blank\">http://portfoliotheme."
+"org/wp-content/uploads/icomoon/demo.html</a>."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:15
+msgid "Button"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:17
+msgid "Renders a button with multiple styles."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:29
+msgid "The element id"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:30
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:29
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:29
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:29
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:22
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:21
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:21
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:21
+msgid "Id"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:34
+msgid "Inline CSS styling for the button DIV element."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:35
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:35
+#: ../agile/framework/siteorigin/widgets/divider-top-widget/divider-top-widget.php:26
+#: ../agile/framework/siteorigin/widgets/divider-widget/divider-widget.php:37
+#: ../agile/framework/siteorigin/widgets/header-fancy-widget/header-fancy-widget.php:31
+#: ../agile/framework/siteorigin/widgets/heading-widget/heading-widget.php:31
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:40
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:35
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:29
+msgid "Style"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:39
+msgid "The CSS class name for the button DIV element."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:40
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:29
+#: ../agile/framework/siteorigin/widgets/header-fancy-widget/header-fancy-widget.php:25
+#: ../agile/framework/siteorigin/widgets/heading-widget/heading-widget.php:25
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:34
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:34
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:34
+#: ../agile/framework/siteorigin/widgets/toggle-widget/toggle-widget.php:37
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:28
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:27
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:27
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:27
+msgid "Class"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:45
+msgid "The color of the button."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:46
+msgid "Color"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:63
+msgid "Button Size"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:65
+#: ../agile/framework/siteorigin/widgets/custom-posts-widget/custom-posts-widget.php:56
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:48
+#: ../agile/framework/siteorigin/widgets/show-gallery-widget/show-gallery-widget.php:49
+#: ../agile/framework/siteorigin/widgets/show-portfolio-widget/show-portfolio-widget.php:49
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:37
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:123
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:129
+msgid "Large"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:66
+#: ../agile/framework/siteorigin/widgets/custom-posts-widget/custom-posts-widget.php:54
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:46
+#: ../agile/framework/siteorigin/widgets/show-gallery-widget/show-gallery-widget.php:47
+#: ../agile/framework/siteorigin/widgets/show-portfolio-widget/show-portfolio-widget.php:47
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:35
+msgid "Small"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:67
+msgid "Rounded"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:72
+msgid "The URL to which button should point to."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:73
+msgid "Target URL"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:74
+msgid "http://targeturl.com"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:78
+msgid ""
+"Alignment of the button and text alignment of the button title displayed."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:79
+msgid "Align"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:81
+msgid "Center"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:82
+msgid "Left"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:83
+msgid "Right"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:88
+msgid "Open the link in new window."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:89
+msgid "Open the link in new window"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:94
+msgid "The button title or text. "
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:95
+msgid "Button Text"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/button-widget/button-widget.php:96
+msgid "Buy Now"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/clearing-space-widget/clearing-space-widget.php:15
+msgid "Clearing space"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/clearing-space-widget/clearing-space-widget.php:17
+msgid ""
+"Create a DIV element aimed at having a space of fixed height between "
+"elements."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/clearing-space-widget/clearing-space-widget.php:24
+msgid "Specify height of the space in pixel units (without the px suffix)."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/clearing-space-widget/clearing-space-widget.php:25
+msgid "Height"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:15
+msgid "Contact Form"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:17
+msgid "Display a simple contact form."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:28
+msgid "Custom CSS class name to be set for the div element created (optional)"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:34
+msgid "The recipient email where all form submissions will be received."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:35
+msgid "Mail to"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:36
+msgid "receipient@mydomain.com"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:40
+msgid ""
+"Request for phone number of the user? A phone number field is displayed."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:41
+msgid "Phone"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:46
+msgid "Whether the user should be requested for Web URL via an input field?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:47
+msgid "Web url"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:52
+msgid "A mail subject field is displayed if the value is checked."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:58
+msgid "Color of the submit button."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/contact-form-widget/contact-form-widget.php:59
+msgid "Button color"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/custom-posts-widget/custom-posts-widget.php:15
+msgid "Custom Posts"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/custom-posts-widget/custom-posts-widget.php:17
+msgid ""
+"Display blog posts or custom post type instances based on user selection "
+"criteria."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/custom-posts-widget/custom-posts-widget.php:28
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:38
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:27
+msgid "Posts Query"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/custom-posts-widget/custom-posts-widget.php:32
+msgid "Display thumbnail or hide the same."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/custom-posts-widget/custom-posts-widget.php:33
+msgid "Hide thumbnail"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/custom-posts-widget/custom-posts-widget.php:38
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:87
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:91
+msgid ""
+"Display meta information like the author, date of publishing and number of "
+"comments."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/custom-posts-widget/custom-posts-widget.php:39
+msgid "Show meta"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/custom-posts-widget/custom-posts-widget.php:44
+msgid "The total number of characters of excerpt to display."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/custom-posts-widget/custom-posts-widget.php:45
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:82
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:86
+msgid "Excerpt count"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/custom-posts-widget/custom-posts-widget.php:50
+msgid "The size of the image displayed for posts list."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/custom-posts-widget/custom-posts-widget.php:51
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:43
+#: ../agile/framework/siteorigin/widgets/show-gallery-widget/show-gallery-widget.php:44
+#: ../agile/framework/siteorigin/widgets/show-portfolio-widget/show-portfolio-widget.php:44
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:32
+msgid "Image size"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/custom-posts-widget/custom-posts-widget.php:55
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:47
+#: ../agile/framework/siteorigin/widgets/show-gallery-widget/show-gallery-widget.php:48
+#: ../agile/framework/siteorigin/widgets/show-portfolio-widget/show-portfolio-widget.php:48
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:36
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:122
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:128
+msgid "Medium"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/custom-posts-widget/custom-posts-widget.php:57
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:49
+#: ../agile/framework/siteorigin/widgets/show-gallery-widget/show-gallery-widget.php:50
+#: ../agile/framework/siteorigin/widgets/show-portfolio-widget/show-portfolio-widget.php:50
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:38
+msgid "Full"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/custom-posts-widget/custom-posts-widget.php:58
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:50
+#: ../agile/framework/siteorigin/widgets/show-gallery-widget/show-gallery-widget.php:51
+#: ../agile/framework/siteorigin/widgets/show-portfolio-widget/show-portfolio-widget.php:51
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:39
+msgid "Square"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/custom-posts-widget/custom-posts-widget.php:59
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:51
+#: ../agile/framework/siteorigin/widgets/show-gallery-widget/show-gallery-widget.php:52
+#: ../agile/framework/siteorigin/widgets/show-portfolio-widget/show-portfolio-widget.php:52
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:40
+msgid "Proportional"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:15
+msgid "Device Slider"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:17
+msgid ""
+"Create a image slider part of a container that looks like a browser, "
+"smartphone, tablet or a desktop"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:28
+msgid ""
+"The ID for the slider container DIV element. Make sure you provide an ID if "
+"you have multiple device sliders on a page."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:29
+msgid "ID"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:34
+msgid "The inline CSS applied to the slider container DIV element"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:40
+msgid "The device type for the slider."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:41
+msgid "Device"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:43
+msgid "iPhone"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:44
+msgid "Samsung Galaxy S"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:45
+msgid "HTC One"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:46
+msgid "iPad"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:47
+msgid "iMac"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:48
+msgid "MacBook"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:49
+msgid "Web Browser"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:58
+msgid ""
+"If the device specified is browser, this provides the URL to be displayed in "
+"the address bar of the browser."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:59
+msgid "Browser url"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:60
+msgid "http://portfoliotheme.org/"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:69
+msgid "Image Slides"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:70
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:101
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:80
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:59
+msgid "Slide"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:80
+msgid "The title to identify the image slide."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:85
+msgid "Slide Image"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:98
+msgid "Select your animation type"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:99
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:78
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:57
+msgid "Animation"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:102
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:81
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:60
+msgid "Fade"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:108
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:93
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:72
+msgid "Create navigation for previous/next navigation?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:109
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:94
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:73
+msgid "Direction navigation?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:114
+msgid "Create navigation for paging control of each slide? "
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:115
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:88
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:67
+msgid "Control navigation?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:120
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:123
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:90
+msgid "Set the speed of the slideshow cycling, in milliseconds"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:121
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:124
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:91
+msgid "Slideshow speed"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:126
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:129
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:96
+msgid "Set the speed of animations, in milliseconds."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:127
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:130
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:97
+msgid "Animation speed"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:132
+msgid "Pause the slideshow when interacting with control elements"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:133
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:106
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:85
+msgid "Pause on action?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:138
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:99
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:78
+msgid ""
+"Pause the slideshow when hovering over slider, then resume when no longer "
+"hovering."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:139
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:100
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:79
+msgid "Pause on hover?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:144
+msgid "Determines the easing method used in jQuery transitions"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:145
+msgid "Easing"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:147
+msgid "Swing"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/device-slider-widget/device-slider-widget.php:148
+msgid "Linear"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/divider-top-widget/divider-top-widget.php:15
+msgid "Divider top"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/divider-top-widget/divider-top-widget.php:17
+msgid ""
+"Draws a line or a divider with a Back to Top link on the right. The user is "
+"smooth scrolled to the top of the page upon clicking the Back to Top link."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/divider-top-widget/divider-top-widget.php:25
+#: ../agile/framework/siteorigin/widgets/divider-widget/divider-widget.php:36
+#: ../agile/framework/siteorigin/widgets/header-fancy-widget/header-fancy-widget.php:30
+msgid "Inline CSS styling applied for the div element created (optional)"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/divider-widget/divider-widget.php:15
+#: ../agile/framework/siteorigin/widgets/divider-widget/divider-widget.php:27
+msgid "Divider"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/divider-widget/divider-widget.php:17
+msgid ""
+"Draws a line or a divider of various kinds depending on the type of divider "
+"chosen."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/divider-widget/divider-widget.php:24
+msgid "Type of the divider to be created."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/divider-widget/divider-widget.php:25
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:41
+msgid "Type"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/divider-widget/divider-widget.php:28
+msgid "Divider Line"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/divider-widget/divider-widget.php:29
+msgid "Divider Space"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/divider-widget/divider-widget.php:30
+msgid "Divider Fancy"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/header-fancy-widget/header-fancy-widget.php:15
+msgid "Header fancy"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/header-fancy-widget/header-fancy-widget.php:17
+msgid ""
+"Draws a nice looking header with a title displayed in the center and with a "
+"line dividing the content."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/header-fancy-widget/header-fancy-widget.php:24
+msgid "The CSS class to be set for the div element created (optional)."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/header-fancy-widget/header-fancy-widget.php:36
+msgid "The title to be displayed in the center of the header."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/header-fancy-widget/header-fancy-widget.php:38
+msgid "Our Courses"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/heading-widget/heading-widget.php:15
+msgid "Heading"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/heading-widget/heading-widget.php:17
+msgid "Create headings used as introductory titles/text to the page sections."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/heading-widget/heading-widget.php:24
+msgid "Custom CSS class name to be set for the DIV element created (optional)"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/heading-widget/heading-widget.php:30
+msgid "Inline CSS styling applied for the DIV element created (optional)"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/heading-widget/heading-widget.php:36
+msgid "The title of the heading."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/heading-widget/heading-widget.php:38
+msgid "Heading Title"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/heading-widget/heading-widget.php:43
+msgid "A short description or text shown below the title."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/heading-widget/heading-widget.php:44
+msgid "Pitch text"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:15
+msgid "Hero Section"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:17
+msgid ""
+"Full width section or segment with options to set parallax or video "
+"backgrounds. For best results, choose Full Width Stretched as the layout for "
+"any row containing this widget."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:28
+msgid "The id of the wrapper HTML element created by the section"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:33
+msgid "The CSS class of the HTML element wrapping the content."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:35
+msgid "dark-bg"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:39
+msgid ""
+"Any inline styling you would like to apply to the section. You may want to "
+"override the default top/bottom padding, provide custom markup for "
+"backgrounds etc."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:44
+msgid "The hero segment content."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:45
+msgid "Hero section content"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:46
+msgid "Hero section content goes here."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:50
+msgid "The background color to be applied to the segment."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:51
+msgid "Background color"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:56
+msgid ""
+"Background image for the section. If YouTube video background option is "
+"chosen, this image will be used as a placeholder image for the video."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:57
+msgid "Background image"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:61
+msgid ""
+"Specify if the background is a parallax one. On mobile devices and browser "
+"window size less than 1100px, the parallax effect is disabled."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:62
+msgid "Parallax background"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:71
+msgid ""
+"Speed at which the parallax background moves with user scrolling the page. "
+"If the value assigned to this property is 0, the background acts like the "
+"one whose background-attachment property is set to fixed and hence does not "
+"scroll at all. A value of 1 implies the background scrolls with the page in "
+"equal increments ( same effect as background-attachment: scroll). To obtain "
+"best results, experiment with multiple values to test the parallax effect."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:72
+msgid "Parallax Background speed"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:84
+msgid ""
+"As an alternative to background image option above, choose background image "
+"which acts like a pattern. This image is repeated horizontally as well as "
+"vertically to help occupy the entire segment width."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:85
+msgid "Background pattern"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:94
+msgid "The color of the overlay to be applied on the background."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:95
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:91
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:95
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:70
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:76
+msgid "Overlay color"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:99
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:95
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:99
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:74
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:80
+msgid "The opacity of the overlay color applied on the video."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:100
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:96
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:100
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:75
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:81
+msgid "Overlay opacity"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:109
+msgid ""
+"The image which can act as a pattern displayed on top of the background."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/hero-section-widget/hero-section-widget.php:110
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:107
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:111
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:86
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:92
+msgid "Overlay pattern"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/piechart-widget/piechart-widget.php:15
+msgid "Piechart"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/piechart-widget/piechart-widget.php:17
+msgid ""
+"Displays a piechart for a percentage statistic with a title in the middle of "
+"the piechart displayed. The piechart animates to indicate the percentage "
+"specified."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/piechart-widget/piechart-widget.php:24
+msgid "The text for the title displayed at the center of the piechart."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/piechart-widget/piechart-widget.php:26
+msgid "Repeat Customers"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/piechart-widget/piechart-widget.php:30
+msgid "The percentage value for the piechart."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/piechart-widget/piechart-widget.php:31
+msgid "Percent"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:15
+msgid "Post Snippets Carousel"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:17
+msgid "Create a responsive carousel of a collection of custom posts."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:28
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:28
+msgid "The element id to be set for the wrapper element created. (optional)."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:33
+msgid ""
+"The element class to be set for the wrapper element created. (optional)."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:42
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:31
+msgid "The image size to be used. "
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:57
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:61
+msgid "Display thumbnail image or hide the same."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:58
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:62
+msgid "Hide thumbnail?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:63
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:67
+msgid ""
+"Specify if the title of the post or custom post type needs to be displayed "
+"below the featured image"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:64
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:68
+msgid "Display title?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:69
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:73
+msgid ""
+"Specify if the excerpt or summary content of the post/custom post type needs "
+"to be displayed below the featured image thumbnail."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:70
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:74
+msgid "Display summary?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:75
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:79
+msgid ""
+"Display excerpt for the post/custom post type. Has no effect if "
+"display_summary is set to false. If show_excerpt is set to false and "
+"display_summary is set to true, the content of the post is displayed "
+"truncated by the more WordPress tag. If more tag is not specified, the "
+"entire post content is displayed."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:76
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:80
+msgid "Show excerpt?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:81
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:85
+msgid ""
+"Applicable only to excerpts. The excerpt displayed is truncated to the "
+"number of characters specified with this parameter."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:88
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:92
+msgid "Show meta?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:100
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:69
+msgid "Pagination speed in milliseconds"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:101
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:70
+msgid "Pagination speed"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:106
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:75
+msgid "Slide speed in milliseconds."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:107
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:76
+msgid "Slide speed"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:112
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:81
+msgid "Rewind speed in milliseconds."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:113
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:82
+msgid "Rewind speed"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:118
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:87
+msgid "Stop autoplay on mouse hover?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:119
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:88
+msgid "Stop on hover?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:124
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:93
+msgid ""
+"Change to any integer for example autoPlay : 5000 to play every 5 seconds. "
+"If you set text true default speed will be 5 seconds. Set to text false to "
+"disable autoplay."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:125
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:94
+msgid "Auto play"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:130
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:99
+msgid ""
+"Scroll per page and not per item. This affect next/prev buttons and "
+"mouse/touch dragging."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:131
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:100
+msgid "Scroll per page?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:136
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:105
+msgid "Show pagination?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:137
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:106
+msgid "Pagination?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:142
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:111
+msgid "Display next and prev buttons?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:143
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:112
+msgid "Navigation?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:156
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:125
+msgid ""
+"Maximum amount of items displayed at a time with the widest browser width."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:157
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:126
+msgid "Items"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:165
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:134
+msgid ""
+"Maximum amount of items displayed at a time with the desktop browser width "
+"(<1200px)."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:166
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:135
+msgid "Items desktop"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:174
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:143
+msgid ""
+"Maximum amount of items displayed at a time with the smaller desktop browser "
+"width(<980px)."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:175
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:144
+msgid "Items desktop_small"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:183
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:152
+msgid ""
+"Maximum amount of items displayed at a time with the tablet browser "
+"width(<769px)."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:184
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:153
+msgid "Items tablet"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:192
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:161
+msgid ""
+"Maximum amount of items displayed at a time with the smaller tablet browser "
+"width."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:193
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:162
+msgid "Items tablet_small"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:201
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:170
+msgid ""
+"Maximum amount of items displayed at a time with the smartphone mobile "
+"browser width(<480px)."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/post-snippets-carousel-widget/post-snippets-carousel-widget.php:202
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:171
+msgid "Items mobile"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/pricing-plans-widget/pricing-plans-widget.php:15
+msgid "Pricing Plans"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/pricing-plans-widget/pricing-plans-widget.php:17
+msgid ""
+"Display the pricing table with pricing plans created in Pricing Plan tab of "
+"WordPress admin."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/pricing-plans-widget/pricing-plans-widget.php:28
+msgid "Number of pricing plans to display."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/pricing-plans-widget/pricing-plans-widget.php:29
+#: ../agile/framework/siteorigin/widgets/show-gallery-widget/show-gallery-widget.php:38
+#: ../agile/framework/siteorigin/widgets/show-portfolio-widget/show-portfolio-widget.php:38
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:39
+msgid "Post count"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/pricing-plans-widget/pricing-plans-widget.php:34
+msgid ""
+"Comma separated post ids for pricing plan custom post type (optional). "
+"Example: 234,235,236"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/pricing-plans-widget/pricing-plans-widget.php:35
+msgid "Pricing Plan IDs"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:15
+msgid "Responsive Carousel"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:17
+msgid "Create a responsive carousel of a collection of HTML content."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:33
+msgid ""
+"The CSS class to be set for the wrapper div for the carousel. Useful if you "
+"need to do some custom styling of our own (rounded, hexagon images etc.) for "
+"the displayed items. (optional)."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:39
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:47
+msgid "HTML Elements"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:40
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:48
+msgid "HTML Element"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:50
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:58
+msgid "The title to identify the HTML element"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:55
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:63
+msgid "HTML element"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/responsive-carousel-widget/responsive-carousel-widget.php:56
+msgid "The HTML content for the carousel item."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:15
+msgid "Responsive Slider"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:17
+msgid ""
+"Create a touch friendly responsive slider of a collection of HTML content."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:34
+msgid " The inline CSS applied to the slider container DIV element.(optional)"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:40
+msgid "Constructs and sets a unique CSS class for the slider. (optional)."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:64
+msgid "The HTML content for the slider item."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:77
+msgid "Select your animation type."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:87
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:66
+msgid "Create navigation for paging control of each slide?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:105
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:84
+msgid "Pause the slideshow when interacting with control elements."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:111
+msgid "Should the animation loop?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:112
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:120
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:125
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:108
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:114
+msgid "Loop"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:117
+msgid "Animate slider automatically without user intervention?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/responsive-slider-widget/responsive-slider-widget.php:118
+msgid "Slideshow"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/service-item-widget/service-item-widget.php:15
+msgid "Service Item"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/service-item-widget/service-item-widget.php:17
+msgid "Displays a service item part of services."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/service-item-widget/service-item-widget.php:24
+msgid "The title for the service."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/service-item-widget/service-item-widget.php:26
+msgid "Web Design"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/service-item-widget/service-item-widget.php:30
+msgid "A short description of the service."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/service-item-widget/service-item-widget.php:35
+msgid "Service Icon"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/service-item-widget/service-item-widget.php:36
+msgid ""
+"The font icon representing the service item being displayed, chosen from the "
+"list of icons listed at <a href=\"http://portfoliotheme.org/wp-"
+"content/uploads/icomoon/demo.html\" target=\"_blank\">http://portfoliotheme."
+"org/wp-content/uploads/icomoon/demo.html</a>."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/show-gallery-widget/show-gallery-widget.php:15
+msgid "Show Gallery"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/show-gallery-widget/show-gallery-widget.php:17
+msgid ""
+"Display gallery in a multi-column grid, filterable by gallery categories."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/show-gallery-widget/show-gallery-widget.php:28
+msgid "Number of gallery items to display per row. "
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/show-gallery-widget/show-gallery-widget.php:29
+#: ../agile/framework/siteorigin/widgets/show-portfolio-widget/show-portfolio-widget.php:29
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:47
+msgid "Number of columns"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/show-gallery-widget/show-gallery-widget.php:37
+msgid "Number of gallery items to display."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/show-gallery-widget/show-gallery-widget.php:43
+msgid "Size of the image to be displayed in the gallery."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/show-gallery-widget/show-gallery-widget.php:58
+msgid ""
+"The gallery items will be filterable based on gallery categories if checked."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/show-gallery-widget/show-gallery-widget.php:59
+#: ../agile/framework/siteorigin/widgets/show-portfolio-widget/show-portfolio-widget.php:59
+msgid "Filterable?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/show-gallery-widget/show-gallery-widget.php:64
+#: ../agile/framework/siteorigin/widgets/show-portfolio-widget/show-portfolio-widget.php:64
+msgid ""
+"If checked, no margins are maintained between the columns. Helps to achieve "
+"the popular packed layout."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/show-gallery-widget/show-gallery-widget.php:65
+msgid "Packed layout?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/show-portfolio-widget/show-portfolio-widget.php:15
+msgid "Show Portfolio"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/show-portfolio-widget/show-portfolio-widget.php:17
+msgid ""
+"Display portfolio in a multi-column grid, filterable by portfolio categories."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/show-portfolio-widget/show-portfolio-widget.php:28
+msgid "Number of portfolio items to display per row. "
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/show-portfolio-widget/show-portfolio-widget.php:37
+msgid "Number of portfolio items to display."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/show-portfolio-widget/show-portfolio-widget.php:43
+msgid "Size of the image to be displayed in the portfolio."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/show-portfolio-widget/show-portfolio-widget.php:58
+msgid ""
+"The portfolio items will be filterable based on portfolio categories if "
+"checked."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/show-portfolio-widget/show-portfolio-widget.php:65
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:56
+msgid "Packed Layout?"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:14
+msgid "Show Post Snippets"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:16
+msgid ""
+"Displays the post snippets of blog posts or another custom post types with "
+"featured images in a grid layout."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:46
+msgid "Number of posts to display per row of post snippets."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/show-post-snippets-widget/show-post-snippets-widget.php:55
+msgid ""
+"If set to true, no margins are maintained between the columns. Helps to "
+"achieve the popular packed layout."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:15
+msgid "Social List"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:17
+msgid ""
+"Display a list of social icons with links to various social network pages."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:28
+msgid "Email address to be used."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:34
+msgid "The URL for the Google Plus page."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:35
+msgid "Googleplus URL"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:36
+msgid "http://plus.google.com"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:40
+msgid "The URL of the Facebook page."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:41
+msgid "Facebook URL"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:42
+msgid "http://www.facebook.com"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:46
+msgid "The URL of the Twitter account."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:47
+msgid "Twitter URL"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:48
+msgid "http://www.twitter.com"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:52
+msgid "The URL for the YouTube channel."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:53
+msgid "YouTube URL"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:54
+msgid "http://www.youtube.com/"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:58
+msgid "The URL for the LinkedIn profile."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:59
+msgid "LinkedIn URL"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:60
+msgid "http://www.linkedin.com"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:64
+msgid "The URL for the Vimeo channel."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:65
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:66
+msgid "http://vimeo.com"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:70
+msgid "The URL to your Instagram account."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:71
+msgid "Instagram URL"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:72
+msgid "http://www.instagram.com"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:76
+msgid "The URL of the Dribbble page."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:77
+msgid "Dribbble URL"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:78
+msgid "http://www.dribbble.com"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:82
+msgid "The URL of the Flickr page."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:83
+msgid "Flickr URL"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:84
+msgid "http://flickr.com"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:88
+msgid "The URL for the Skype id."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:89
+msgid "Skype URL"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:90
+msgid "http://www.skype.com/"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:94
+msgid "The URL for the Pinterest account."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:95
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:96
+msgid "http://www.pinterest.com"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:100
+msgid "The URL of the Behance page."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:101
+msgid "Behance URL"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:102
+msgid "http://www.behance.com"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:106
+msgid "Include RSS feed URL. "
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/social-list-widget/social-list-widget.php:107
+msgid "Include rss"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/stats-bars-widget/stats-bars-widget.php:15
+#: ../agile/framework/siteorigin/widgets/stats-bars-widget/stats-bars-widget.php:30
+msgid "Stats Bars"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/stats-bars-widget/stats-bars-widget.php:17
+msgid "Display a set of animated line bars to display percentage stats."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/stats-bars-widget/stats-bars-widget.php:31
+msgid "Stats Bar"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/stats-bars-widget/stats-bars-widget.php:41
+msgid "The title to be displayed above the stats line bar."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/stats-bars-widget/stats-bars-widget.php:42
+msgid "Stats title"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/stats-bars-widget/stats-bars-widget.php:43
+msgid "Web Design 87%"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/stats-bars-widget/stats-bars-widget.php:47
+msgid "The percentage value for the stats to be displayed."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/stats-bars-widget/stats-bars-widget.php:48
+msgid "Value"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/tabs-widget/tabs-widget.php:15
+#: ../agile/framework/siteorigin/widgets/tabs-widget/tabs-widget.php:30
+msgid "Tabs"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/tabs-widget/tabs-widget.php:17
+msgid "Display tabbed content."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/tabs-widget/tabs-widget.php:31
+msgid "Tab"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/tabs-widget/tabs-widget.php:41
+msgid "Tab Title"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/tabs-widget/tabs-widget.php:42
+msgid "The title for the tab navigation."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/tabs-widget/tabs-widget.php:47
+msgid "The tab content."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/tabs-widget/tabs-widget.php:48
+#: ../agile/framework/siteorigin/widgets/toggle-widget/toggle-widget.php:31
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:68
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:46
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:51
+msgid "Text"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/tabs-widget/tabs-widget.php:49
+msgid "Tab content goes here."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/team-widget/team-widget.php:15
+msgid "Team"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/team-widget/team-widget.php:17
+msgid ""
+"Displays a list of team members entered by creating Team custom post types "
+"in the Team Profiles tab of the WordPress Admin."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/team-widget/team-widget.php:28
+msgid "Choose Style"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/team-widget/team-widget.php:31
+msgid "Team List"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/team-widget/team-widget.php:32
+msgid "Team Slider"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/team-widget/team-widget.php:37
+msgid ""
+"The comma separated slugs of the department(s) for which the team needs to "
+"be displayed.(optional). Example: sales,accounting."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:15
+msgid "Testimonials Slider"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:17
+msgid ""
+"Display a slider of testimonial posts created in the Testimonials tab of the "
+"WordPress Admin. "
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:28
+msgid "Select your slider style."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:31
+msgid "Style 1"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:32
+msgid "Style 2"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:38
+msgid ""
+"The number of testimonials to be displayed. By default displays all of the "
+"custom posts entered as testimonial in the Testimonials tab of the WordPress "
+"Admin (optional)."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:44
+msgid ""
+"A comma separated post ids of the Testimonial custom post types created in "
+"the Testimonials tab of the WordPress Admin. Helps to filter the "
+"testimonials for display (optional). Example: 234,235,236"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:45
+msgid "Testimonial ids"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/testimonials-slider-widget/testimonials-slider-widget.php:56
+msgid "Select your animation type, fade or slide."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/toggle-widget/toggle-widget.php:15
+msgid "Toggle"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/toggle-widget/toggle-widget.php:17
+msgid ""
+"Displays a toggle box with content hidden. The content is shown when the "
+"toggle is clicked."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/toggle-widget/toggle-widget.php:24
+msgid "The title of the toggle."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/toggle-widget/toggle-widget.php:26
+msgid "Toggle Title"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/toggle-widget/toggle-widget.php:30
+msgid "The toggle content."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/toggle-widget/toggle-widget.php:32
+msgid "Toggle content goes here."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/toggle-widget/toggle-widget.php:36
+msgid "CSS class name to be assigned to the toggle DIV element created."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:14
+msgid "HTML5 Video Section"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:15
+msgid ""
+"Displays a section with HTML5 video background. Controls for play/pause/mute "
+"are provided to the bottom right."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:21
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:20
+msgid "The id of the DIV element created to wrap the HTML5 video (optional)."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:23
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:22
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:22
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:22
+msgid "video-intro"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:27
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:26
+msgid "The CSS class of the DIV element created to wrap the HTML5 video"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:29
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:28
+msgid "video-heading"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:33
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:32
+msgid "The id of the VIDEO element."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:34
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:33
+msgid "Video ID"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:35
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:34
+msgid "video1"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:41
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:40
+msgid "The URL of the video uploaded in MP4 format."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:42
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:41
+msgid "MP4 Video URL"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:48
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:47
+msgid "The URL of the video uploaded in OGG format."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:49
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:48
+msgid "OGG Video URL"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:55
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:54
+msgid "The URL of the video uploaded in WebM format."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:56
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:55
+msgid "WebM Video URL"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:62
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:61
+msgid ""
+"The placeholder image to be displayed instead of video in mobile devices."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:63
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:62
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:41
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:41
+msgid "Placeholder Image"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:67
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:66
+msgid "The title text displayed on top of the video. "
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:73
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:78
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:51
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:57
+msgid "Text of the button shown to the user on top of the video."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:75
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:80
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:53
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:59
+msgid "Purchase Now »"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:79
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:84
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:57
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:63
+msgid "The URL to which the button needs to point to."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:90
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:94
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:69
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:75
+msgid "The color of the overlay to be applied on the video."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:106
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:110
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:85
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:91
+msgid "The image which can act as a pattern displayed on top of the video."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:119
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:124
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:107
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:113
+msgid "Specify if you need to loop the video"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:125
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:130
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:113
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:119
+msgid ""
+"A boolean value indicating if the video needs to be started muted. The user "
+"can unmute/mute during video play if required with the help of mute/unmute "
+"button"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:126
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:131
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:114
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:120
+msgid "Mute"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:131
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:136
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:158
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:164
+msgid "Specify if the video should autoplay once the video once ready."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:132
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:137
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:159
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:165
+msgid "Autoplay"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:137
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:142
+msgid ""
+"Specify if the HTML5 video needs to be preloaded irrespective of whether the "
+"user chooses to play or not. Possible values are auto (preloads entire video "
+"when the page loads), metadata (load only metadata when page loads) and none "
+"(preload nothing on page load)."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:138
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:143
+msgid "Preload"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:139
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:144
+msgid "none"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:141
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:146
+msgid "No Preload"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:142
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:147
+msgid "Preload Metadata"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-section-widget/video-section-widget.php:143
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:148
+msgid "Preload Video"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:14
+msgid "HTML5 Video Showcase"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:15
+msgid ""
+"Displays an HTML5 video with controls for play/pause/mute. The video is not "
+"auto-played by default and waits for the user input via the play button."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:72
+msgid "The text displayed on top of the video."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/video-showcase-widget/video-showcase-widget.php:73
+msgid "Subtitle"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:14
+msgid "YouTube Video Section"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:15
+msgid ""
+"Displays a section with YouTube video background. Controls for "
+"play/pause/mute are provided to the bottom right."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:20
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:20
+msgid "The id of the DIV element created to wrap the YouTube video"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:26
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:26
+msgid "The CSS class of the DIV element created to wrap the YouTube video"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:32
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:32
+msgid "The YouTube URL of the video."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:33
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:33
+msgid "Video url"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:40
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:40
+msgid ""
+"The placeholder image to be displayed instead of YouTube video in mobile "
+"devices."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:45
+msgid "The title text displayed on top of the video."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:97
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:103
+msgid ""
+"The CSS selector of the DOM element where you want the video background; if "
+"not specified it takes the “body”; if set to “self” the player will be "
+"instanced on that element."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:98
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:104
+msgid "Containment"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:99
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:101
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:105
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:107
+msgid "self"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:102
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:108
+msgid "body"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:119
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:125
+msgid "Video Quality."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:124
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:130
+msgid "hd720"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:125
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:131
+msgid "hd1080"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:126
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:132
+msgid "highres"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:132
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:138
+msgid "Video opacity"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:140
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:146
+msgid "Set the volume level of the video."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:141
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:147
+msgid "Volume"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:149
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:155
+msgid "Aspect Ratio"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:152
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:158
+msgid "4/3"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:153
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:159
+msgid "16/9"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:164
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:170
+msgid "Will fit the video size into the window size optimizing the view."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:165
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:171
+msgid "Optimize Display"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:170
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:176
+msgid "Set the seconds the video should start at"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:171
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:177
+msgid "Start At "
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:176
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:182
+msgid "Set the seconds the video should stop at. If 0, the value is ignored."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:177
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:183
+msgid "Stop At"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:182
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:188
+msgid "Show or hide the controls bar at the bottom of the page."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-section-widget/ytp-video-section-widget.php:183
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:189
+msgid "Show Controls"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:14
+msgid "YouTube Video Showcase"
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:15
+msgid ""
+"Displays an YouTube video with controls for play/pause/mute. The video is "
+"not auto-played by default and waits for the user input via the play button."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:45
+msgid "The title text displayed on top of the video.."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:46
+msgid "Title."
+msgstr ""
+
+#: ../agile/framework/siteorigin/widgets/ytp-video-showcase-widget/ytp-video-showcase-widget.php:52
+msgid "The text displayed on top of the video, below the title."
+msgstr ""
+
+#. Name of the theme
+msgid "Agile Child"
+msgstr ""
+
+#. Description of the theme
+msgid "Child theme for the Agile Theme by LiveMesh"
+msgstr ""
+
+#. URI of the theme
+msgid "http://portfoliotheme.org/agile"
+msgstr ""
+
+#. Author of the theme
+msgid "LiveMesh"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://themeforest.net/user/livemesh"
+msgstr ""

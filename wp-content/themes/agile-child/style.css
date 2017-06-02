@@ -1,0 +1,352 @@
+/*
+Theme Name:     Agile Child
+Theme URI:      http://portfoliotheme.org/agile
+Description:    Child theme for the Agile Theme by LiveMesh
+Author:         LiveMesh
+Author URI:     http://themeforest.net/user/livemesh
+Template:       agile
+Version:        0.1.0
+*/
+
+@import url("../agile/style.css");
+@import url("../agile/fonts/font-UTM-AVO.css");
+
+/* FONT */
+cite, em, i {
+	font: italic 13px/20px "utmavo";
+}
+
+.heading2 .title {
+	font-family: "utmavo";
+}
+
+.post-snippets .hentry .entry-title {
+	font-family: "utmavo";
+}
+
+button, .button, input[type=button], input[type="submit"], input[type="reset"] {
+	font-family: "utmavo";
+	background-color: #fe5000 !important;
+	border-color: #fe5000 !important;
+	font-weight: bold !important;
+}
+
+.button:hover, .button.default:hover, .button.black:hover, .button.blue:hover, .button.cyan:hover, .button.green:hover, .button.orange:hover, .button.pink:hover, .button.red:hover, .button.teal:hover {
+	background-color: #305480 !important;
+	border-color: #305480 !important;
+	font-weight: bold !important;
+}
+
+ul.member-list li a {
+	font-family: "utmavo";
+}
+
+.entry-meta span a {
+	font-family: "utmavo";
+}
+
+/* NAV */
+#header.sticky #site-logo {
+    top: 5px;
+    }
+
+
+.boxed #header.sticky {
+	top: 0;
+}
+
+.panel-row-style-call-to-action {
+	width: 100%;
+	margin: 0 auto !important;
+}
+
+#pgc-12773-5-0 {
+	width: 80%;
+	margin: 0 auto !important;
+}
+
+#primary-menu .hover-bg {
+	transition: 0.2s;
+}
+
+/* INTRO HOME */
+.flexslider .slides img {
+	width: 60%;
+	margin-left:20%
+}
+
+.lsow-accordion.style1 .lsow-panel .lsow-panel-title {
+	color: #fff !important;
+	background-color: #5ebace;
+}
+
+.lsow-accordion.style1 .lsow-panel:hover .lsow-panel-title {
+	background-color: #305480 !important;
+}
+
+.lsow-accordion.style1 .lsow-panel.lsow-active .lsow-panel-title {
+	background-color: #305480 !important;
+}
+
+.lsow-accordion.style1 .lsow-panel {
+	margin: 0 0 20px 0 !important;
+}
+
+#pg-12773-3 {
+	margin-bottom: 0 !important;
+}
+
+#pg-12773-7, #pg-12773-8, #pg-12773-9 {
+	display: none;
+}
+
+#pgc-12773-8-1 {
+	width: 33%;
+}
+
+@media screen and (max-width: 992px) {
+	#pgc-12773-8-1 {
+	width: 90%;
+}
+}
+
+.sticky-wrapper > #header {
+	background-color: #ffffff;
+}
+
+#primary-menu > ul.menu > li > a {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#header.sticky #primary-menu > ul.menu > li > a {
+    font-size: 12px;
+}
+
+.inner {
+
+    max-width: 1250px !important;
+}
+
+
+/*Team Member Section*/
+.flex-active-slide .sixcol .footer {
+	display: none;
+}
+
+/* Thumbnail */
+.post .image-info {
+    background-color: #305480;
+}
+
+.archive .post .image-info {
+    background: #fe5000;
+    background: linear-gradient(to bottom right, rgba(48, 84, 128, 0.5), rgba(1,1,1,0.8));
+}
+
+.image-info-buttons i {
+	background: rgba(117, 116, 105, 0.64) !important;
+}
+
+.image-info-buttons i:hover {
+	background: rgba(117, 116, 105, 0.8) !important;
+}
+
+/* NAV */
+#site-logo {
+	top: 20px;
+}
+
+#site-logo a img {
+    max-width: 65%;
+}
+
+#header.sticky #site-logo a img.standard-logo {
+    max-width: 40%;
+}
+
+#header.sticky {
+	background: rgba(211,211,211,0.8);
+}
+
+@media screen and (max-width: 1200px) {
+	#primary-menu > ul.menu > li > a {
+		font-size: 12px;
+		padding-left: 15px;
+
+	}
+}
+
+@media screen and (max-width: 1014px) {
+	#header.sticky #site-logo a img.standard-logo {
+		display: none;
+	}
+}
+@media screen and (max-width: 767px) {
+	#site-logo a img {
+		margin: auto;
+	}
+}
+/* FOOTER */
+
+.sow-features-list .sow-icon-container {
+	color: rgba(11,11,11,0.5) !important;
+	transition: 0.8s;
+}
+
+.sow-features-list .sow-icon-container:hover {
+	color: rgba(200,200,200,0.6) !important;
+}
+
+#social-footer {
+	padding: 0 0 !important;
+}
+
+
+/* BLOG */
+.read-more, header#title-area {
+	display: none;
+}
+
+.banner-cover {
+	width: 100%;
+	height: 100%;
+	background: radial-gradient(rgba(75,75,75,0.4),rgba(25,25,25,0.5),rgba(5,5,5,0.6));
+}
+
+.title-archive {
+	color: #fff;
+	padding-bottom: 20px;
+	border-bottom: 1px solid #fff;
+	width: 60%;
+	margin: auto !important;
+}
+
+@media screen and (max-width: 1200px) {
+	.title-archive {
+		width: 80%;
+	}
+}
+
+/* Relation Post */
+.ovf {
+	float:left;
+	width:20%;
+	margin-right:5%;
+	margin-bottom:25px;
+}
+.ovf > a > img {
+	border:1px solid #e0e0d1;
+	border-radius: 5px;
+}
+
+/* LIVE STREAM PAGE */
+#post-13268 .image-area{
+	display: none;
+}
+/* SOCIAL SHARE */
+/* Disable WhatsApp button on Desktop - Tutorial link: http://crunchify.me/1VIxAsz */
+@media screen and (min-width: 1024px) {
+    .crunchify-whatsapp {
+	display: none !important;
+    }
+}
+ 
+.page > .entry-content > .crunchify-social {
+	display: none;
+}
+
+.member-content > .crunchify-social {
+	display: none;
+}
+.crunchify-link {
+    padding: 2px 8px 4px 8px !important;
+    color: white;
+    font-size: 12px;
+    border-radius: 2px;
+    margin-right: 2px;
+    cursor: pointer;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    box-shadow: inset 0 -3px 0 rgba(0,0,0,.2);
+    -moz-box-shadow: inset 0 -3px 0 rgba(0,0,0,.2);
+    -webkit-box-shadow: inset 0 -3px 0 rgba(0,0,0,.2);
+    margin-top: 2px;
+    display: inline-block;
+}
+ 
+.crunchify-link:hover,.crunchify-link:active {
+    color: white;
+}
+ 
+.crunchify-twitter {
+    background: #00aced;
+}
+ 
+.crunchify-twitter:hover,.crunchify-twitter:active {
+    background: #0084b4;
+}
+ 
+.crunchify-facebook {
+    background: #3B5997;
+}
+ 
+.crunchify-facebook:hover,.crunchify-facebook:active {
+    background: #2d4372;
+}
+ 
+.crunchify-googleplus {
+    background: #D64937;
+}
+ 
+.crunchify-googleplus:hover,.crunchify-googleplus:active {
+    background: #b53525;
+}
+ 
+.crunchify-buffer {
+    background: #444;
+}
+ 
+.crunchify-buffer:hover,.crunchify-buffer:active {
+    background: #222;
+}
+ 
+.crunchify-pinterest {
+    background: #bd081c;
+}
+ 
+.crunchify-pinterest:hover,.crunchify-pinterest:active {
+    background: #bd081c;
+}
+ 
+.crunchify-linkedin {
+    background: #0074A1;
+}
+ 
+.crunchify-linkedin:hover,.crunchify-linkedin:active {
+    background: #006288;
+}
+ 
+.crunchify-whatsapp {
+    background: #43d854;
+}
+ 
+.crunchify-whatsapp:hover,.crunchify-whatsapp:active {
+    background: #009688;
+}
+ 
+.crunchify-social {
+    margin: 20px 0px 25px 0px;
+    -webkit-font-smoothing: antialiased;
+    font-size: 12px;
+}
+
+/* Hero Section Content */
+.segment-content {
+	padding: 0 !important;
+}
+
+#home-intro-slide .segment {
+	padding: 0 !important;
+}

@@ -1,0 +1,46 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.img-thumbnail {
+	padding: 6px;
+	margin: 20px;
+}
+
+.navbar-right .btn-primary, .navbar-right .btn-info {
+	color: #fff !important;
+	border-radius: 0;
+}
+.navbar-right .btn-primary a  , .navbar-right .btn-info a{
+	color: #fff !important;
+}
+.navbar-right .btn-primary {
+    background-color: #6f9a37;
+    border: 1px solid #5c8724;
+    background-image: none;
+}
+.navbar-right .btn-primary:hover {
+    background-color: #5c8724;
+    border: 1px solid #6f9a37;	
+}
+
+.navbar-right .btn-info {
+    background-color: #545454;
+    border: 1px solid #656565;
+    background-image: none;
+}
+.navbar-right .btn-info:hover {
+    background-color: #656565;
+    border: 1px solid #545454;	
+}
